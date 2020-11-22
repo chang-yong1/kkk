@@ -38,7 +38,7 @@ public class Termproject2 {
 			System.out.println("최솟값: "+min);
 			System.out.println("최댓값: "+max);
 			System.out.println("합계 :"+sum);
-
+			//11월22일
 		}
 	}
 
